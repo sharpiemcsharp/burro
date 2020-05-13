@@ -1,0 +1,2 @@
+# burro
+Lightweight discord bot
